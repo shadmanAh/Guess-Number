@@ -9,3 +9,4 @@ This is a simple number guessing game. which I created using HTML, CSS and JavaS
 - HTML5
 - CSS 3
 - JavaScript
+
